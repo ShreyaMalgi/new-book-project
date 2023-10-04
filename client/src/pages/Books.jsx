@@ -58,7 +58,7 @@ const Books = () => {
   </div>
 </nav>
        
-      <h1> My collection of books </h1>
+      <h1> Library of books </h1>
       <div className="books">
         {books.map((book)=>(
           <div className="book" key={book.id}>
