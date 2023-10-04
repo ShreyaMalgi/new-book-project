@@ -1,0 +1,33 @@
+.App{
+  height: 100vh;
+  padding: 0px 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background:linear-gradient(teal,pink);
+}
+.books{
+  display: flex;
+}
+
+.books{
+  flex:1;
+ 
+}
+.book{
+  padding: 5%;
+}
+.navbar-brand{
+  background-color:pink;
+}
+/* .nav-link active{
+  background-color:pink;
+} */
+
+img{
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  background-color:rgb(235, 169, 87);
+}
